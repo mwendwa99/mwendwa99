@@ -25,7 +25,7 @@
 
 
 <p align="center">
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mwendwa99&show_icons=true&locale=en&layout=compact" alt="mwendwa99" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mwendwa99&show_icons=true&locale=en&layout=compact" alt="mwendwa99" />
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mwendwa99&" alt="mwendwa99" />
 </p>
 
