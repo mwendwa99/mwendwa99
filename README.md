@@ -1,4 +1,4 @@
-### **<div align="center">Hello👋🏽 I'm Brian Mwendwa.<br/> A passionate Software Developer from Nairobi, Kenya.</div>**  
+### **<div align="center"><h1>Hello👋🏽 I'm Brian Mwendwa.<br/> A passionate Software Developer from Nairobi, Kenya.</h1></div>**  
   
 
 - 🔭 I’m currently working on [vccke website](https://github.com/mwendwa99/vccke)  
