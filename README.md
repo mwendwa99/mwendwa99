@@ -1,10 +1,10 @@
-<h1 align='center'>> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1 align='center'> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mwendwa99.mwendwa99)
 
 </p>
-<div align='center'> <h2>Hi! My name is Brian. Thank You for taking the time to view my GitHub Profile :smile: </h2>
+<div align='center'> <h2>My name is Brian Mwendwa. Thank You for taking the time to view my GitHub Profile :smile: </h2>
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
