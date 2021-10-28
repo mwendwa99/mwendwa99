@@ -47,15 +47,8 @@
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@mwendwa99&compact=True"/>
   <br/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwendwa99&" alt="mwendwa99" />
   </div>
 <br />
-
-  <div align="center">
-  <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
-
-![Metrics](https://metrics.lecoq.io/mwendwa99?template=classic&config.timezone=America%2FToronto)
-  </div>
 
 <div align="center">
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
