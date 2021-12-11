@@ -13,7 +13,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on shoppy mobile application
+- 🔭 I’m currently working on shoppy mobile application [![wakatime](https://wakatime.com/badge/user/2aba1a8d-1c0f-4cb2-8d62-adf66b362996/project/e7d05d49-4fac-4891-9047-cd2d151c8a1d.svg)](https://wakatime.com/badge/user/2aba1a8d-1c0f-4cb2-8d62-adf66b362996/project/e7d05d49-4fac-4891-9047-cd2d151c8a1d)
 
 - 🌱 I’m currently learning NextJS, TypeScript, Google Cloud Platform.
 
