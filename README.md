@@ -1,4 +1,4 @@
-<h1 align='center'> Hello Fellow < Developers />!</h1>
+<h1 align='center'> Hello Fellow <Developers />!</h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mwendwa99.mwendwa99)
