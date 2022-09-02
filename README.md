@@ -1,10 +1,10 @@
-<h1 align='center'> Hello Fellow <Developers />!</h1>
+<h1 align='center'> Hello Fellow < Developers />!  </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mwendwa99.mwendwa99)
 
 </p>
-<div align='center'> <h2>I am Brian Mwendwa. Thank You for taking time to visit my GitHub Profile :smile: </h2>
+<div align='center'> <h2>I am Brian Mwendwa. A Software Developer Based in Nairobi :smile: </h2>
 </div>
 
 <div>
