@@ -1,7 +1,7 @@
 <h1 align='center'> Hello Fellow < Developers />!  </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mwendwa99.visitor-badge)
+![Visitor Count](https://profile-counter.glitch.me/mwendwa99/count.svg)
 
 <img src="https://komarev.com/ghpvc/?username=Bekhzod96&color=blueviolet" alt="bekhzod-akhrorov" />
 
