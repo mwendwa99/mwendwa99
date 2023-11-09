@@ -2,6 +2,8 @@
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mwendwa99.mwendwa99)
+https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
+<img src="https://komarev.com/ghpvc/?username=Bekhzod96&color=blueviolet" alt="bekhzod-akhrorov" />
 
 </p>
 <div align='center'> <h2>I am Brian Mwendwa. A Software Developer Based in Nairobi :smile: </h2>
@@ -12,15 +14,13 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-
 - 🔭 I’m currently working on a Jumia App Clone in React and React Native [![wakatime](https://wakatime.com/badge/user/2aba1a8d-1c0f-4cb2-8d62-adf66b362996/project/c6686af8-d4db-4d5d-a52f-2b9675799ee3.svg)](https://wakatime.com/badge/user/2aba1a8d-1c0f-4cb2-8d62-adf66b362996/project/c6686af8-d4db-4d5d-a52f-2b9675799ee3)
 
 - 🌱 I’m currently learning C# and the .NET framework.
 
+- 👯 I’m looking to collaborate on Projects,Tech Articles.
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles. 
-
-- 💬 Talk to me about Anything related to the MERN stack and related technologies. 
+- 💬 Talk to me about Anything related to the MERN stack and related technologies.
 </div>
 
 <div align='center'>
@@ -41,7 +41,6 @@
 <a href= https://github.com/mwendwa99?tab=repositories&q=&type=&language=spring&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>
 </div>
 
-
 <div align='center'>
 <h2> Connect with me </h2>
 <a href = 'https://www.linkedin.com/in/brian-mwendwa-25326a173'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
@@ -60,4 +59,5 @@
 <h2> Some Programming Humor for you </h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
   </div>
