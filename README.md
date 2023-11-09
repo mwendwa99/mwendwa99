@@ -1,9 +1,7 @@
 <h1 align='center'> Hello Fellow < Developers />!  </h1>
 <p align='center'>
 
-![Visitor Count](https://profile-counter.glitch.me/mwendwa99/count.svg)
-
-<img src="https://komarev.com/ghpvc/?username=Bekhzod96&color=blueviolet" alt="bekhzod-akhrorov" />
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
 
 </p>
 <div align='center'> <h2>I am Brian Mwendwa. A Software Developer Based in Nairobi :smile: </h2>
