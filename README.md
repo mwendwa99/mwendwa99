@@ -1,7 +1,7 @@
 <h1 align='center'> Hello Fellow < Developers />!  </h1>
 <p align='center'>
 
-[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/mwendwa99/badge-it)](https://badges.pufler.dev)
 
 </p>
 <div align='center'> <h2>I am Brian Mwendwa. A Software Developer Based in Nairobi :smile: </h2>
