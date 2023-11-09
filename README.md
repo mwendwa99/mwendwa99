@@ -12,8 +12,6 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on a Jumia App Clone in React and React Native [![wakatime](https://wakatime.com/badge/user/2aba1a8d-1c0f-4cb2-8d62-adf66b362996/project/c6686af8-d4db-4d5d-a52f-2b9675799ee3.svg)](https://wakatime.com/badge/user/2aba1a8d-1c0f-4cb2-8d62-adf66b362996/project/c6686af8-d4db-4d5d-a52f-2b9675799ee3)
-
 - 🌱 I’m currently learning C# and the .NET framework.
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles.
