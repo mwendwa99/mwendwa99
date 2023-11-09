@@ -1,8 +1,8 @@
 <h1 align='center'> Hello Fellow < Developers />!  </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mwendwa99.mwendwa99)
-https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mwendwa99.visitor-badge)
+
 <img src="https://komarev.com/ghpvc/?username=Bekhzod96&color=blueviolet" alt="bekhzod-akhrorov" />
 
 </p>
