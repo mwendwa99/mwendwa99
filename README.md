@@ -12,11 +12,11 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning C# and the .NET framework.
+- 🌱 I’m currently learning Agentic AI Development | RAG | MCP | langchain | vectordb | ollama.
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles.
 
-- 💬 Talk to me about Anything related to the MERN stack and related technologies.
+- 💬 Talk to me about anything AI, Tech, Software Engineering.
 </div>
 
 <div align='center'>
